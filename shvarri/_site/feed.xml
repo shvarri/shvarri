@@ -1,0 +1,114 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/shvarri/</id>
+  <title>AIQ</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2023-11-13T10:48:28+04:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>http://localhost:4000/shvarri/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/shvarri/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/shvarri/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 your_full_name </rights>
+  <icon>shvarri/assets/img/favicons/favicon.ico</icon>
+  <logo>shvarri/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Developing the Future of Energy: A Global AI Pioneer</title>
+    <link href="http://localhost:4000/shvarri/posts/AIQ/" rel="alternate" type="text/html" title="Developing the Future of Energy: A Global AI Pioneer" />
+    <published>2023-10-30T09:17:56+04:00</published>
+  
+    <updated>2023-10-30T09:17:56+04:00</updated>
+  
+    <id>http://localhost:4000/shvarri/posts/AIQ/</id>
+    <content src="http://localhost:4000/shvarri/posts/AIQ/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="jekyll" />
+    
+    <category term="update" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+    
+        
+    
+    
+        AIQ is a digital pioneer based in Abu Dhabi that is committed to using data to propel AI-powered change in the energy sector, bringing about a more sustainable future. As a joint venture between the multinational energy giant ADNOC and the UAE's leading AI company G42, AIQ is developing cutting-edge AI and machine learning solutions that create value along the w...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Jekyll Tutorial</title>
+    <link href="http://localhost:4000/shvarri/posts/Jekyll/" rel="alternate" type="text/html" title="Jekyll Tutorial" />
+    <published>2023-10-29T21:00:00+04:00</published>
+  
+    <updated>2023-10-29T21:00:00+04:00</updated>
+  
+    <id>http://localhost:4000/shvarri/posts/Jekyll/</id>
+    <content src="http://localhost:4000/shvarri/posts/Jekyll/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="homelab" />
+    
+    <category term="hardware" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Get started with Jekyll
+
+Contents
+
+
+  what is jekyll
+  Pre-requisites to install
+  Installation process
+  Get started with sample posts
+  More referecing sites
+
+
+What is Jekyll
+
+Simple, blog-aware, static site generator Jekyll is ideal for individual, project, or organization websites. Jekyll converts HTML and Markdown files into a fully static website based on the layouts you select. Markdown ...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
